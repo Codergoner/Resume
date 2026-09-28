@@ -4,11 +4,9 @@ Interactive resume website for Chetan Reddy Reddappagari, a Computer Science stu
 
 ## Website
 
-The deployable website is stored at the repository root:
+The site is deployable directly from the repository root with GitHub Pages. No build step is required.
 
 - `index.html`
 - `style.css`
 - `script.js`
 - `assets/Chetan_Reddy_Resume.pdf`
-
-No build step is required. GitHub Pages can publish directly from the `main` branch and repository root.
